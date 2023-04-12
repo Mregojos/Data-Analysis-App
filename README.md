@@ -23,7 +23,7 @@ docker exec -it streamlit-data-web-app sh
 docker rm -f streamlit-data-web-app
 ```
 
-## App Snapshots
+## App Preview
 
 
 ### Data Sources
