@@ -18,7 +18,7 @@ st.set_page_config(
 
 #-----------------Title and Info------------------------------------#
 st.title("Streamlit Data Web App")
-st.subheader("🍁 Canada Temporary Foreign Worker Permit (TFWP)'s Approved LMIA List of 2022")
+st.subheader("🍁 Canada Temporary Foreign Work Permit (TFWP)'s Approved LMIA List of 2022")
 
 #-----------------Menu------------------------------------#
 menu_style = { 'background-color': 'red'}
