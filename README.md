@@ -6,7 +6,7 @@
 
 ## Data
 * Canada's Approved LMIA 0f 2022
-* The processed data: [Processed Data](https://github.com/Mregojos/Batch-Data-Processing)
+* How I processed and cleaned the data: [Link](https://github.com/Mregojos/Batch-Data-Processing)
 
 ## Tasks
 ```sh
