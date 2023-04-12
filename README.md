@@ -1,4 +1,4 @@
-# Data Web App: 🍁 Canada's Approved LMIA of 2022 Data Analysis
+# Data Web App: 🍁 Canada TFWP's Approved LMIA of 2022 Data Analysis
 
 ## Objective
 * To make a web app: 🍁 Canada's Approved LMIA of 2022 Data Analysis
@@ -7,6 +7,7 @@
 ## Data
 * Canada's Approved LMIA of 2022
 * How I processed and cleaned the data: [Link](https://github.com/Mregojos/Batch-Data-Processing)
+* TFWP -> Temporary Foreign Work Permit
 
 ## Tasks
 ```sh
