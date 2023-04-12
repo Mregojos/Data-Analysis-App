@@ -5,7 +5,7 @@
 * To analyze and visualize the data
 
 ## Data
-* Canada's Approved LMIA 0f 2022
+* Canada's Approved LMIA of 2022
 * How I processed and cleaned the data: [Link](https://github.com/Mregojos/Batch-Data-Processing)
 
 ## Tasks
