@@ -25,8 +25,8 @@ docker exec -it streamlit-data-web-app sh
 docker rm -f streamlit-data-web-app
 ```
 
-## App Preview
-
+## App Images
+![](https://github.com/Mregojos/Data-Analysis-App/blob/main/images/Front.png)
 
 ### Data Sources
 * Canada's Approved LMIA of 2022 Data Link: https://open.canada.ca/data/en/dataset/90fed587-1364-4f33-a9ee-208181dc0b97
