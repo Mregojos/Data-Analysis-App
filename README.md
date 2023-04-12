@@ -14,6 +14,7 @@
 git clone https://github.com/Mregojos/Data-Analysis-App
 
 # Build and run the app
+cd Data-Analysis-App
 docker build -t streamlit-data-web-app .
 docker run -d --name streamlit-data-web-app -p 8501:8501 -v $(pwd):/app streamlit-data-web-app
 
