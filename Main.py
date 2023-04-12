@@ -169,4 +169,4 @@ if selected_option == "Search":
 if selected_option == "About":
     st.title("Streamlit Data Web App!")
     st.info("Canada Temporary Foreign Work Permit (TFWP)'s Approved LMIA List of 2022")
-    st.info([Github Repository](https://github.com/Mregojos/Data-Analysis-App))
+    st.info('[Github Repository](https://github.com/Mregojos/Data-Analysis-App)')
