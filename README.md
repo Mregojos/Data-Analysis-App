@@ -10,6 +10,9 @@
 
 ## Tasks
 ```sh
+# Clone the repo
+git clone https://github.com/Mregojos/Data-Analysis-App
+
 # Build and run the app
 docker build -t streamlit-data-web-app .
 docker run -d --name streamlit-data-web-app -p 8501:8501 -v $(pwd):/app streamlit-data-web-app
