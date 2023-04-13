@@ -1,7 +1,7 @@
 # Data Analysis Web App: 🍁 Canada TFWP's Positive LMIA Employers List of 2022
 
 ## Objective
-* To make a web app: 🍁 Canada TFWP's Positive LMIA Employers List of 2022
+* To create a data analysis web app: 🍁 Canada TFWP's Positive LMIA Employers List of 2022
 * To analyze and visualize the data
 
 ## Data
