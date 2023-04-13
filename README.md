@@ -27,7 +27,7 @@ docker rm -f streamlit-data-web-app
 ```
 
 ## App Images
-![](https://github.com/Mregojos/Data-Analysis-App/blob/main/images/Front.png)
+![](https://github.com/Mregojos/Data-Analysis-App/blob/main/images/Frontv2.png)
 ![](https://github.com/Mregojos/Data-Analysis-App/blob/main/images/Dataset.png)
 ![](https://github.com/Mregojos/Data-Analysis-App/blob/main/images/Visualization.png)
 
