@@ -5,7 +5,7 @@
 * To analyze and visualize the data
 
 ## Data
-* Canada's Approved LMIA of 2022
+* Canada TFWP's Positive LMIA Employers List of 2022
 * How I processed and cleaned the data: [Link](https://github.com/Mregojos/Batch-Data-Processing)
 * TFWP -> Temporary Foreign Worker Program
 * LMIA -> Labour Market Impact Assessment
