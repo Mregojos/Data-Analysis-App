@@ -11,14 +11,14 @@ import plotly.express as px
 
 #------------------Page Set-up--------------------------------------#
 st.set_page_config(
-    page_title="Data Web App",
+    page_title="Data Analysis Web App",
     page_icon="",
     layout="wide"
 )
 
 #-----------------Title and Info------------------------------------#
 st.title("Data Analysis Web App")
-st.subheader("🍁 Canada Temporary Foreign Work Permit (TFWP)'s Approved LMIA List of 2022")
+st.subheader("🍁 Canada TFWP's Positive LMIA Employers List of 2022")
 
 #-----------------Menu------------------------------------#
 menu_style = { 'background-color': 'red'}
@@ -167,6 +167,6 @@ if selected_option == "Search":
 
 #----------------About-----------------------------------------#
 if selected_option == "About":
-    st.title("Streamlit Data Web App")
-    st.info("Canada Temporary Foreign Work Permit (TFWP)'s Approved LMIA List of 2022")
+    st.title("Data Analysis Web App")
+    st.info("Canada Temporary Foreign Worker Program (TFWP)'s Positive Labour Market Impact Assessment (LMIA) Employers List of 2022")
     st.info('[Github Repository](https://github.com/Mregojos/Data-Analysis-App)')
